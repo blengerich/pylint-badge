@@ -25,10 +25,10 @@ By Default:
 0.00 < ![pylint Score](https://mperlet.github.io/pybadge/badges/1.50.svg) < 3.00 < ![pylint Score](https://mperlet.github.io/pybadge/badges/5.51.svg) < 7.00 ![pylint Score](https://mperlet.github.io/pybadge/badges/9.73.svg) < 10.00
 
 The thresholds for colors can be changed by the args:
-`
+```
 --min_yellow
 --min_green
-`
+```
 which set the minimum threshold of `pylint` score for the yellow or green colors to be assigned.
 
 ## Limitations
